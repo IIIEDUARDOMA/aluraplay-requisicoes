@@ -83,6 +83,20 @@
       "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 12
+    },
+    {
+      "titulo": "Primeiros passos Next.js | #AluraMais",
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/slmtdlWNwcE",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 13
+    },
+    {
+      "titulo": "NextJs é o melhor framework com Mario Souto | #HipstersPontoTube",
+      "descricao": "5 mil visualizações",
+      "url": "https://www.youtube.com/embed/7x4_HNC4Uu4",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+      "id": 14
     }
   ]
 }
